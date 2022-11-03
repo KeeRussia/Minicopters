@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "RoadRadio";
+  src: url("../fonts/RoadRadio/RoadRadio-Bold.eot");
+  src: local("../fonts/RoadRadio/RoadRadio-Bold"), url("../fonts/RoadRadio/RoadRadio-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/RoadRadio/RoadRadio-Bold.woff") format("woff"), url("../fonts/RoadRadio/RoadRadio-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "RoadRadio-Regular";
+  src: url("../fonts/RoadRadio/RoadRadio.eot");
+  src: local("../fonts/RoadRadio/RoadRadio"), url("../fonts/RoadRadio/RoadRadio.eot?#iefix") format("embedded-opentype"), url("../fonts/RoadRadio/RoadRadio.woff") format("woff"), url("../fonts/RoadRadio/RoadRadio.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Raleway-SemiBold";
+  src: url("../fonts/Raleway/Raleway-SemiBold.eot");
+  src: local("../fonts/Raleway/Raleway SemiBold"), local("Raleway-SemiBold"), url("../fonts/Raleway/Raleway-SemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/Raleway/Raleway-SemiBold.woff") format("woff"), url("../fonts/Raleway/Raleway-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Raleway-Regular";
+  src: url("../fonts/Raleway/Raleway-Regular.eot");
+  src: local("../fonts/Raleway/Raleway"), local("Raleway-Regular"), url("../fonts/Raleway/Raleway-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Raleway/Raleway-Regular.woff") format("woff"), url("../fonts/Raleway/Raleway-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url("../fonts/Montserrat/Montserrat/Montserrat-Regular.eot");
+  src: local("../fonts/Montserrat/Montserrat/Montserrat Regular"), local("Montserrat-Regular"), url("../fonts/Montserrat/Montserrat/Montserrat-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Montserrat/Montserrat/Montserrat-Regular.woff") format("woff"), url("../fonts/Montserrat/Montserrat/Montserrat-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("../fonts/Inter/Inter-Medium.eot");
+  src: local("../fonts/Inter/Inter Medium"), local("Inter-Medium"), url("../fonts/Inter/Inter-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/Inter/Inter-Medium.woff2") format("woff2"), url("../fonts/Inter/Inter-Medium.woff") format("woff"), url("../fonts/Inter/Inter-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Proxima Nova Rg";
+  src: url("../fonts/ProximaNova/ProximaNova-Regular.eot");
+  src: local("../fonts/ProximaNova/Proxima Nova Regular"), local("ProximaNova-Regular"), url("../fonts/ProximaNova/ProximaNova-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/ProximaNova/ProximaNova-Regular.woff") format("woff"), url("../fonts/ProximaNova/ProximaNova-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}/*# sourceMappingURL=fonts.css.map */
